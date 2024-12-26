@@ -27,6 +27,17 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 /* write all the steps invloved */
 
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.For different input combinations generate the timing diagram.
+
+
 **PROGRAM**
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
@@ -34,9 +45,17 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 Developed by: RegisterNumber:
 
 */
+![WhatsApp Image 2024-12-26 at 14 45 17_121be89d](https://github.com/user-attachments/assets/673bfbe7-3da9-411a-ade3-4bf0a3c6421b)
+
 
 **RTL LOGIC FOR SISO Shift Register**
+![WhatsApp Image 2024-12-24 at 23 45 39_e519da59](https://github.com/user-attachments/assets/4a9196cb-b700-4a87-9377-7ac65cccc2c2)
+
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
+![WhatsApp Image 2024-12-24 at 23 45 50_b9aef07b](https://github.com/user-attachments/assets/f900265f-4c7c-43cf-a04c-48d7f12dcfa0)
+
+
 **RESULTS**
+Thus to implement  SERIAL IN SERIAL OUT using verilog and validating their functionality using their functional tables are done successfully.
