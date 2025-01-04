@@ -1,6 +1,6 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
-**AIM:**
+**AIM:** 
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
 
